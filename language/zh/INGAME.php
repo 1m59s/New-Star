@@ -66,7 +66,7 @@ $LNG['type_mission_18']                             = '远征到星云区';
 //{IDs_0003} 行星类型名称
 $LNG['type_planet_1']                               = '行星';
 $LNG['type_planet_2']                               = '碎片场';
-$LNG['type_planet_3']                               = '月球';
+$LNG['type_planet_3']                               = '卫星';
 //{IDs_0004} 游戏中的权限
 $LNG['user_level_0']                                = '玩家';
 $LNG['user_level_1']                                = '版主';
@@ -178,7 +178,7 @@ $LNG['gl_show']                                      = '查看';
 $LNG['gl_pos']                                       = '№';
 $LNG['gl_planet']                                    = '行星';
 $LNG['gl_name_activity']                             = '名称（活动）';
-$LNG['gl_moon']                                      = '月球';
+$LNG['gl_moon']                                      = '卫星';
 $LNG['gl_debris']                                    = '碎片';
 $LNG['gl_player_estate']                             = '玩家（状态）';
 $LNG['gl_alliance']                                  = '联盟';
@@ -760,7 +760,7 @@ $LNG['cff_mission_target_mip']                   = '导弹攻击 (%d) 来自玩�
 $LNG['fcm_universe']                             = '宇宙';
 $LNG['fcm_mainplanet']                           = '主星球';
 $LNG['fcm_planet']                               = '星球';
-$LNG['fcm_moon']                                 = '月球';
+$LNG['fcm_moon']                                 = '卫星';
 $LNG['fcm_info']                                 = '信息';
 $LNG['fcp_colony']                               = '殖民地';
 $LNG['sys_module_inactive']                      = '模块未激活';

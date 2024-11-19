@@ -56,7 +56,7 @@ $LNG['lv_sum']                                       = '数量';
 $LNG['lv_resources_h']                               = '每小时资源';
 $LNG['lv_max']                                       = '所有';
 $LNG['lv_max_planet']                                = '行星';
-$LNG['lv_max_moon']                                  = '月球';
+$LNG['lv_max_moon']                                  = '卫星';
 $LNG['lv_max_colon']                                 = '行星状态（殖民）：';
 $LNG['lv_go_planet']                                 = '继续';
 // 轨道
@@ -82,7 +82,7 @@ $LNG['cost']                                         = '价格';
 $LNG['ov_ticket']                                    = '技术支持';
 $LNG['ov_ticket_tooltip']                            = '我会回答你的问题';
 $LNG['ov_online_users']                              = '在线玩家：';
-$LNG['ov_create_moon']                               = '创建月球';
+$LNG['ov_create_moon']                               = '创建卫星';
 $LNG['ov_panel_root']                                = '控制面板';
 // 导航
 $LNG['lm_market']                                    = '市场';
@@ -91,7 +91,7 @@ $LNG['lm_race']                                      = '种族';
 $LNG['lm_premium']                                   = '高级';
 $LNG['lm_bonus']                                     = '奖金';
 $LNG['lm_infobonus']                                 = '奖励';
-$LNG['lm_createmoon']                                = '创建月球';
+$LNG['lm_createmoon']                                = '创建卫星';
 $LNG['lm_ars']                                       = '军械库';
 $LNG['lm_container']                                  = '容器';
 $LNG['lm_artifact']                                  = '神器';
@@ -179,11 +179,11 @@ $LNG['inb_percent']                                  = '百分比';
 $LNG['inb_units']                                    = '单位';
 $LNG['inb_name']                                     = '名称';
 
-// 创建月球
-$LNG['crm_value']                                    = '创建月球需要：';
-$LNG['crm_war']                                      = '月球的直径是随机的！';
-$LNG['crm_create']                                   = '月球已成功创建！';
-$LNG['crm_moon_is']                                  = '你已经在这个行星上有月球！';
+// 创建卫星
+$LNG['crm_value']                                    = '创建卫星需要：';
+$LNG['crm_war']                                      = '卫星的直径是随机的！';
+$LNG['crm_create']                                   = '卫星已成功创建！';
+$LNG['crm_moon_is']                                  = '你已经在这个行星上有卫星！';
 $LNG['crm_not_res']                                  = '你没有足够的资源！';
 
 // 容器
