@@ -1,0 +1,12 @@
+<div class="left">
+<h2>多宇宙的信息支持</h2>
+<p>2Moons 可以支持健康的多宇宙，您必须根据要求配置 Web 服务器。</p>
+<p>您可以通过点击 "信息" 按钮查看您的服务器是否支持。如果不确定，最好向您托管公司中的朋友咨询。</p>
+<h3>Apache</h3>
+<p>如果您使用 Apache 服务器，您必须仅删除 .htacces 文件中的第 48 到第 51 行（删除路径）。<br>
+此外，要求启用 mod_rewrite。</p>
+<h3>nginx</h3>
+<p>如果您使用 nginx 服务器，vhost 配置需要直接修改重写规则以进行扩展：</p>
+<p><code>{NGINX-CODE}</code></p>
+<p>将以下代码片段轻松粘贴到 "server_name" 行下方。</p>
+</div>
